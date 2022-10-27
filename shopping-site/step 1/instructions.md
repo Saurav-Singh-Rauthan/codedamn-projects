@@ -1,5 +1,5 @@
 So lets begin 👨‍💻
-Follow these steps for the first step that is to create a navbar :
+Follow these steps for the first milestone that is to create a navbar :
 
 - Create a `<div>` element with the class `'navbar'`
   
@@ -10,4 +10,4 @@ Follow these steps for the first step that is to create a navbar :
 
 - add a `<div>` with class `backdrop` outside `navbar` div which will used as backdrop for our mobile sliding side-navbar
 
-- now style the `navbar` div according to the design in `desgin` folder and give the `backdrop` div a full-screen width and height with black background and z-index more than 100
+- now style the `navbar` div according to the design in `design` folder and give the `backdrop` div a full-screen width and height with black background and z-index more than 100
